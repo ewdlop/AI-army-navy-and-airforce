@@ -35,3 +35,6 @@ LIterally disable reversability.
 
 #=====================================================
 nuclear bunkers with elevator(totally a best engineer ideal ever. good luck with the leaks)
+
+#==================================================================
+arm dealers that sells poor quality weapons to enemies.
