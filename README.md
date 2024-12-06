@@ -1,5 +1,6 @@
 # AI-army-navy-and-airforce
 
+Axoim:what is their to dominate if you destory the world or you destory yourself first
 
 me vs chatgpt:
 
