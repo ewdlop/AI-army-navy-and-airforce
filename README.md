@@ -3,7 +3,7 @@
 
 me vs chatgpt:
 
-Amount of budget you were given(they were doing this to be safe) vs the output 
+Amount of budget you were given(they were doing this to be extra safe right) vs the output 
 
 imagine science was that easy and amount of people that would be killed by American High school Mathematics and sceicne. I am just saying.
 
