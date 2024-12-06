@@ -22,3 +22,16 @@ Device driver(hard drive is the dic not the driver)
 -------------------
 
 It is like America needs productiivty of WW2 to do somethihng aobut this.
+
+
+---another 2 cents-----------
+
+yall treating the world like a science experiment ground for FallOut76
+
+is there a secert weapon that will disallow reversing things? 
+LIterally disable reversability.
+
+
+
+#=====================================================
+nuclear bunkers with elevator(totally a best engineer ideal ever. good luck with the leaks)
