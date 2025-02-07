@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/ewdlop/AI-army-navy-and-airforce/actions/workflows/codeql.yml/badge.svg)](https://github.com/ewdlop/AI-army-navy-and-airforce/actions/workflows/codeql.yml)
+
 # AI-army-navy-and-airforce
 
 Axoim:what is their to dominate if you destory the world or you destory yourself first
