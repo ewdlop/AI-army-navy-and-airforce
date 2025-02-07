@@ -1,0 +1,35 @@
+graph TD
+    SOC[Safety Operations Center] --> FDR[Flight Data Recorder]
+    SOC --> EMS[Environmental Monitoring System]
+    SOC --> MTS[Maintenance Tracking System]
+    SOC --> PRT[Personnel Readiness Tracker]
+
+    subgraph Aircraft Systems
+        FDR --> RT[Real-time Telemetry]
+        FDR --> FS[Flight Sensors]
+        FDR --> EC[Engine Controls]
+    end
+
+    subgraph Ground Systems
+        EMS --> WS[Weather Stations]
+        EMS --> RS[Runway Sensors]
+        EMS --> VS[Visibility Sensors]
+    end
+
+    subgraph Maintenance Hub
+        MTS --> DS[Diagnostic Systems]
+        MTS --> PS[Parts Status]
+        MTS --> MS[Maintenance Schedule]
+    end
+
+    subgraph Personnel Management
+        PRT --> TS[Training Status]
+        PRT --> CS[Certification System]
+        PRT --> DS2[Duty Scheduler]
+    end
+
+    style SOC fill:#f9f,stroke:#333,stroke-width:4px
+    style Aircraft Systems fill:#bbf,stroke:#333,stroke-width:2px
+    style Ground Systems fill:#bfb,stroke:#333,stroke-width:2px
+    style Maintenance Hub fill:#fbf,stroke:#333,stroke-width:2px
+    style Personnel Management fill:#ffb,stroke:#333,stroke-width:2px
